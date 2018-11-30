@@ -1,0 +1,32 @@
+
+.container {
+    width: 90%;
+    margin:0 auto;
+}
+
+.header {
+    background-color: cornflowerblue;
+    height: 50px;
+}
+
+.leftcolum {
+    width: 20%;
+    float: left;
+    background-color: fuchsia
+}
+
+.right {
+    width: 80%;
+    float: right;
+    background-color: chocolate
+}
+
+.left {
+     
+}
+
+.footer {
+    background-color: crimson;
+    float: left;
+    width: 100%;
+}
